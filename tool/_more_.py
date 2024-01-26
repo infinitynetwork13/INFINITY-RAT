@@ -32,7 +32,7 @@ def path_(aa):
 	time.sleep(20. /100)
 
 def git_(a,e):
-	o="cd ../ && rm -rf "+str(e)+"git clone "+str(a)
+	o="cd ../ && rm -rf "+str(e)+" && git clone "+str(a)
 	os.system(o)
 	path_(e)
 def mo_tool():
