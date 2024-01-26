@@ -24,7 +24,7 @@ def logo_f():
 	
 def path_(aa):
 	logo_f()
-	ii = os.path.abspath(aa)
+	ii = os.path.abspath(aa).replace("/infinity_rat", "")
 	mo_solo("\n\n\033[1;32m Download Successful\n")
 	print("\033[1;35m Please wite")
 	time.sleep(10. /100)
