@@ -24,7 +24,7 @@ def logo_f():
 	
 def path_(aa):
 	logo_f()
-	ii = os.path.abspath(aa).replace("/infinity_rat", "")
+	ii = os.path.dirname(aa).replace("/infinity_rat", "")
 	mo_solo("\n\n\033[1;32m Download Successful\n")
 	print("\033[1;35m Please wite")
 	time.sleep(10. /100)
@@ -32,7 +32,8 @@ def path_(aa):
 	time.sleep(20. /100)
 
 def git_(a,e):
-	os.system("cd ../ && git clone "+str(a))
+	o="cd ../ && rm -rf "+str(e)+"git clone "+str(a)
+	os.system(o)
 	path_(e)
 def mo_tool():
 	print("\n\n\r \033[1;33m[\033[1;31m1\033[1;33m] \033[1;32mIp-Tracker")
