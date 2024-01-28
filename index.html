@@ -1,0 +1,118 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style type="text/css" media="all">
+			body{
+				background-color: #050057;
+				padding-top: 50px;
+				padding-left:20px;
+				padding-right: 20px;
+			}
+			.plam{
+				width: 100%;
+				height: 30px;
+				background-color: black;
+				border-top-left-radius: 15px;
+				border-top-right-radius: 15px;
+				padding-top: 5px;
+			}
+			.bode{
+				width: 94%;
+				height: 250px;
+				background-color: #FFFFFF;
+				padding: 10px 10px 10px 10px;
+				border-bottom-left-radius: 15px;
+				border-bottom-right-radius: 15px;
+			}
+			.green{
+				color: #20FF00;
+			}
+			.yellow{
+				color: yellow;
+			}
+			.red{
+				color: red;
+			}
+			.dot{
+				margin-left: 15px;
+			}
+			.http{
+				width: 100%;
+				color: black;
+				background-color: #FFFFFF;
+				margin-left: 20px;
+				width: 100%;
+				border-radius: 15px;
+				padding-left: 5px;
+			}
+			.logo{
+				height: 100%;
+				width: 100%;
+				border-radius: 15px;
+			}
+			.add {
+				width: 20px;
+				height: 20px;
+				border-radius: 20px;
+				padding-top: 5px;
+				background-color: #FFFFFF;
+			}
+			.nn{
+				color: #FFFFFF;
+			}
+			
+			#colorChange {
+			  color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="plam">
+			<div class="dot">
+				<span id="red" class="red">⬤</span>
+				<span id="yellow" class="yellow">⬤</span>
+				<span id="green" class="green">⬤</span>
+				<span class="http"> http://localhost:9999<span class="nn">...............</span></span>
+			</div>
+		</div>
+
+		<div class="bode">
+			<img class="logo" src="https://raw.githubusercontent.com/infinitynetwork13/INFINITY-RAT/main/infinity.gif" alt="inf" />
+		</div>
+	</body>
+</html>
+<script type="text/javascript" charset="utf-8">
+	const red = document.getElementById("red");
+	const green = document.getElementById("green");
+	const yellow = document.getElementById("yellow");
+	let p = 1
+	function color1(){
+		red.style.color = "#FF0016";
+		yellow.style.color = "#0016FF";
+		green.style.color = "#00FF15";
+		p = 2
+	};
+	function color2(){
+		red.style.color = "#26FF00";
+		yellow.style.color = "#FF0023";
+		green.style.color = "#000AFF";
+		p = 3
+	};
+	function color3(){
+		red.style.color = "#0015FF";
+		yellow.style.color = "#10FF00";
+		green.style.color = "#FF0700";
+		p = 1;
+	};
+	setInterval(function() {
+		if(p=='1'){
+			color1()
+		}else if(p=='2'){
+			color2()
+		}else if(p=='3'){
+			color3()
+		};
+		console.log(p)
+	}, 500);
+</script>
