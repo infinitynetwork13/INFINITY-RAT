@@ -121,7 +121,7 @@ bot.on('message', async (msg) =>{
 	}else if(text=='/help'){
 		bot.sendMessage(chat_id,help_,{})
 	}else if(text=='/button'){
-		button_(chat_id,"𝑰'𝒎 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏")
+		button_(chat_id,"𝒊 𝒄𝒂𝒎𝒆")
 	}else if(text=='𝗗𝗘𝗩𝗜𝗖𝗘𝗦'){
 		check_map(chat_id)
 	}else if(reply == '𝙴𝚗𝚝𝚒𝚛𝚎 𝚃𝚘𝚊𝚜𝚝 𝙼𝚎𝚜𝚜𝚊𝚐𝚎'){
