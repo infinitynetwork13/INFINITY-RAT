@@ -42,7 +42,7 @@ let s = 59;
 let m = 59;
 let h = 24;
 let d = 2
-console.clear();
+//console.clear();
 
 //app.use(bodyParser.json());
 app.get('/', function (req, res) {
@@ -362,7 +362,7 @@ function msg_delete(chat_id, msg_id){
 	bot.deleteMessage(chat_id, msg_id)
 }
 server.listen(process.env.PORT || 9999);
-console.log('9999')
+console.log('Rat Service on this port 9999')
 
 function Bot(Id,text){
 	bot.sendMessage(Id,text,reply)
