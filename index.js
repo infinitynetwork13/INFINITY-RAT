@@ -60,6 +60,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
 app.post('/', (req, res) => {
 	const text = req.body.text;
 	const uid = req.body.uid;
+  console.log("\033[32mAdmin Panel Connect Success\033[0m")
 	res.send('POST request received successfully!');
 })
 socket.on('connection', (ws, req) => {
