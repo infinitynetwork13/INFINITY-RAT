@@ -57,7 +57,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
 	res.send('File uploaded!')
 	console.log(model,chat_id,name,title)
 })
-app.post('/', (req, res) => {
+app.post('/admin', (req, res) => {
 	const text = req.body.text;
 	const uid = req.body.uid;
   console.log("\033[32mAdmin Panel Connect Success\033[0m")
