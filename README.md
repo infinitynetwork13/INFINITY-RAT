@@ -72,3 +72,11 @@ python infinity.py
 <img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"/>
 <img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/146b4540-d231-4b62-bf02-32e2a9031439"/>
 <img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/bc1bc5d1-c136-467a-9009-13b75c210c9f"/>
+<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/f38b2c93-46ab-48a5-b2a7-3cb693371ce6"/>
+
+
+## Language
+<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/0d2f5917-138c-4fca-afc5-c166799e205d"/>
+<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/396c70c6-cc4f-4302-8d64-77e11f1914e0"/>
+<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/575e3506-fee0-4f92-a7b9-0e9f0559438e"/>
+<img width="30px" stc="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/1b935f12-dc94-489b-afb4-f2653b34cb7e"/>
