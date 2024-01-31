@@ -56,6 +56,7 @@ git clone https://github.com/infinitynetwork13/INFINITY-RAT.git
 ssh -R 80:localhost:9999 serveo.net
 ```
 `(yes/no/fingerprint) yes`
+`CTRL + c`
 ## Past Time Run
 ```
 cd INFINITY-RAT
