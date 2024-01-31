@@ -67,4 +67,9 @@ cd INFINITY-RAT
 python infinity.py
 ```
 ## CONTACT
-<a herf="https://t.me/Infinity_info_network"><img width="20px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"></img></a>
+<a herf="https://t.me/Infinity_info_network">
+<img width="20px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"/>
+</a>
+<a herf="" >
+ <img width="20px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/146b4540-d231-4b62-bf02-32e2a9031439"/>
+</a>
