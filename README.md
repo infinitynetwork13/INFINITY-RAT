@@ -82,8 +82,11 @@
  ●𝙲𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙳𝚒𝚜𝚌𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 ```
 ## Video
-![](https://t.me/Infinity_info_network/35)
-[view📹](https://t.me/Infinity_info_network/35)
+
+
+[](https://www.youtube.com/embed/q0G_vGXA7rQ)
+
+
 ## install Tool
 
 ```bash
@@ -120,6 +123,7 @@ python infinity.py
 	<a href="https://infinitynetwork13.weebly.com/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/146b4540-d231-4b62-bf02-32e2a9031439"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100094097389473"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/bc1bc5d1-c136-467a-9009-13b75c210c9f"/></a>
 	<a href="https://g.dev/mr_shohid"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/f38b2c93-46ab-48a5-b2a7-3cb693371ce6"/></a>
+<a href="https://youtube.com/@infinityinfo_?si=MY72qvkV8AW-iz_v"><img width="35px" height="28px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/0285ed14-60ee-4ff1-a92f-44eaf9f7a833"/></a>
 </div>
 
 ## Language
