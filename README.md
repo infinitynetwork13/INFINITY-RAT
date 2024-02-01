@@ -124,10 +124,10 @@ python infinity.py
 
 ## Language
 <div align="center">
- <img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/0d2f5917-138c-4fca-afc5-c166799e205d"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/396c70c6-cc4f-4302-8d64-77e11f1914e0"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/575e3506-fee0-4f92-a7b9-0e9f0559438e"/>
-<img width="35px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/df47658e-0450-48b5-b972-25a724cdfb65"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/958b2e4d-f81f-4b38-8859-d25f262a0108"/>
- <img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/11834238-4725-4c28-8646-4a2fc124d829"/>
+	<a href="https://www.python.org/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/0d2f5917-138c-4fca-afc5-c166799e205d"/></a>
+	<a href="https://nodejs.org/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/396c70c6-cc4f-4302-8d64-77e11f1914e0"/></a>
+	<a href="https://www.gnu.org/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/575e3506-fee0-4f92-a7b9-0e9f0559438e"/></a>
+	<a href="https://html.com/"><img width="35px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/df47658e-0450-48b5-b972-25a724cdfb65"/></a>
+	<a href="https://www.free-css.com/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/958b2e4d-f81f-4b38-8859-d25f262a0108"/></a>
+	<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/11834238-4725-4c28-8646-4a2fc124d829"/></a>
 </div>
