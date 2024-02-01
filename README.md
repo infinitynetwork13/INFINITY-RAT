@@ -35,14 +35,14 @@
 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹 𝚄𝙸𝙳
 ```
 - 𝘂𝗿𝗹.𝘁𝘅𝘁
-```
+```bash
 𝚈𝚘𝚞𝚛 𝚅𝚒𝚌𝚝𝚒𝚖 𝚅𝚒𝚎w
 𝘂𝗶𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲: http://www.google.com
 ```
 - 𝗰𝗵𝗮𝘁_𝗶𝗱.𝘁𝘅𝘁
 
 𝙲𝚕𝚒𝚌𝚔[@chat_id_echo_bot](https://t.me/chat_id_echo_bot)
-![chat_id](https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/64017b30-3dec-4f49-98ca-99a763280001)
+<a href="https://t.me/chat_id_echo_bot"><img src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/64017b30-3dec-4f49-98ca-99a763280001"/></a>
 
 
 ## 𝗧𝗲𝗿𝗺𝘀 𝗼𝗳 𝗨𝘀𝗲
@@ -81,9 +81,9 @@
  ●𝙱𝚊𝚌𝚔𝚐𝚛𝚘𝚞𝚗𝚍 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 𝟸𝟺𝚑
  ●𝙲𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙳𝚒𝚜𝚌𝚘𝚗𝚗𝚎𝚌𝚝 > 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 ```
-## Video
+## INFINITY RAT
 
-<a href="https://t.me/Infinity_info_network/41"><img src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/613fdfe6-d59b-42a4-8b8e-c09287be1d7d"/></a>
+<a href="https://t.me/Infinity_info_network/41"><img src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/264cb2b6-62ca-47a1-8ce5-ea1b2893f709"/></a>
 
 
 
