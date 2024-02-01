@@ -21,6 +21,15 @@ echo -e "$b |_____| |_| \_| |_____/     |_|    /_/    \_\ |______| |______|"
 	unzip node_modules.zip
 }
 sleep 1
+if command -v wget &> /dev/null; then
+        echo "\n Wget Is Installed${w}"
+	sleep 0.5
+else
+        echo -e "\n Wget Not installed${w}"
+	sleep 0.5
+        echo -e "\n wget is installing...${w}"
+	pkg install wget
+fi
 if command -v python &> /dev/null; then
 	echo -e "\n ${g}Python Is Installed${w}"
 	sleep 0.5
@@ -68,6 +77,15 @@ else
 	echo -e "\n ${g}Node js is installing...${w}"
 	pkg install nodejs -y
 	sleep 0.5
+fi
+if command -v bytenode &> /dev/null; then
+        echo -e "\n ${g}bytenode is installed${w}"
+	sleep 0.5
+else
+        echo -e "\n bytenode not installd${w}
+	sleep 0.5
+        echo -e "\n bytenode is Installing...${w}
+	npm install bytenode -g
 fi
 if [ -d "node_modules" ]; then
 	echo -e "\n ${b}Please Wait 5 minutes...${w}"
