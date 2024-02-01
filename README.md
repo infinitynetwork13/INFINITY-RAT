@@ -115,11 +115,11 @@ python infinity.py
 ```
 ## CONTACT
 <div align="center">
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/2802c88a-f4e0-4380-9b60-6807cdf33446"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/146b4540-d231-4b62-bf02-32e2a9031439"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/bc1bc5d1-c136-467a-9009-13b75c210c9f"/>
-<img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/f38b2c93-46ab-48a5-b2a7-3cb693371ce6"/>
+	<a href="mailto:infinity.network13@gmail.com"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/2802c88a-f4e0-4380-9b60-6807cdf33446"/></a>
+	<a href="https://t.me/Infinity_info_network"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/4acb85cb-3cf9-4e37-9d69-ce0e113be140"/></a>
+	<a href="https://infinitynetwork13.weebly.com/"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/146b4540-d231-4b62-bf02-32e2a9031439"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100094097389473"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/bc1bc5d1-c136-467a-9009-13b75c210c9f"/></a>
+	<a href="https://g.dev/mr_shohid"><img width="30px" src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/f38b2c93-46ab-48a5-b2a7-3cb693371ce6"/></a>
 </div>
 
 ## Language
