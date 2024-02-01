@@ -83,8 +83,8 @@
 ```
 ## Video
 
+<a href="https://t.me/Infinity_info_network/41"><img src="https://github.com/infinitynetwork13/INFINITY-RAT/assets/155347164/613fdfe6-d59b-42a4-8b8e-c09287be1d7d"/></a>
 
-[](https://www.youtube.com/embed/q0G_vGXA7rQ)
 
 
 ## install Tool
