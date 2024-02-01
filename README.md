@@ -91,6 +91,7 @@ pkg update -y
 pkg upgrade -y
 apt-get install python -y
 apt-get install git -y
+apt-get install wget -y
 apt-get install openssh -y
 apt-get install nodejs -y
 pip install requests
